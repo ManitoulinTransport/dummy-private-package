@@ -1,6 +1,6 @@
 {
   "name": "@manitoulin-transport/dummy-private-package",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Experiment in publishing private packages",
   "main": "index.js",
   "repository": {
@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/ManitoulinTransport/dummy-private-package/issues"
   },
-  "homepage": "https://github.com/ManitoulinTransport/dummy-private-package#readme"
+  "homepage": "https://github.com/ManitoulinTransport/dummy-private-package#readme",
+  "scripts": {
+	  "start": "node start.js"
+  }
 }
