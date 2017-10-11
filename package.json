@@ -1,0 +1,16 @@
+{
+  "name": "@manitoulin-transport/dummy-private-package",
+  "version": "1.0.0",
+  "description": "Experiment in publishing private packages",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManitoulinTransport/dummy-private-package.git"
+  },
+  "author": "Matthew Francis Brunetti",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ManitoulinTransport/dummy-private-package/issues"
+  },
+  "homepage": "https://github.com/ManitoulinTransport/dummy-private-package#readme"
+}
